@@ -1,2 +1,5 @@
 .vscode/
 .DS_Store
+/.vs/Todo.App/v16
+/.vs/todo-api-fs/v16
+/.vs
